@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 number = 3.14159
-print(fnumber[:2])
+print(fnumber[:1])
